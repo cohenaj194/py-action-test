@@ -35,3 +35,4 @@ jobs:
           ls
           pwd
           python --version
+          python action2.py
